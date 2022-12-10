@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-hello",
+  "version": "0.0.1",
+  "description": "hello jenkins test",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0",
+    "supertest": "^6.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarakanHaTrupe/jenkins-hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarakanHaTrupe/jenkins-hello/issues"
+  },
+  "homepage": "https://github.com/TarakanHaTrupe/jenkins-hello#readme"
+}
